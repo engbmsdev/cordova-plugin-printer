@@ -23,13 +23,11 @@ cordova.plugins.printer.isServiceAvailable(
 );
 ```
 
-## License
+## Credits
 
-This software is released under the [Apache 2.0 License][apache2_license].
-
-© 2013-2014 appPlant UG, Inc. All rights reserved
+All rights reserved to appPlant UG, Inc. 
 
 Thanks to: [katzer]
 
 [apache2_license]: http://opensource.org/licenses/Apache-2.0
-[katzer]: katzer@appplant.de
+[katzer]: https://github.com/katzer
