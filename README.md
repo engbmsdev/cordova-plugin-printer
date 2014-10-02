@@ -23,6 +23,12 @@ cordova.plugins.printer.isServiceAvailable(
 );
 ```
 
+## Installation
+```bash
+# ~~ from master ~~
+cordova plugin add https://github.com/engbmsdev/cordova-plugin-printer.git
+```
+
 ## Credits
 
 All rights reserved to appPlant UG, Inc. 
