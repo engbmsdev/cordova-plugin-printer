@@ -40,7 +40,7 @@ exports.DEFAULT_DOC_NAME = 'unknown';
 exports.isAvailable = function (callback, scope) {
     var fn = this._createCallbackFn(callback);
 
-    exec(fn, null, 'Printer', 'isAvailable', []);
+    exec(fn, null, 'Printer', 'isServiceAvailable', []);
 };
 
 /**
